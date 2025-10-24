@@ -6,7 +6,7 @@
 # ---> CryptPad
 datastore
 tasks
-www/components/*
+# www/components/*
 www/bower_components/*
 www/accounts
 /config.js
